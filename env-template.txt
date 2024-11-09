@@ -1,0 +1,4 @@
+MONGO_URI=mongodb+srv://vidhupv:hackUmass12@cluster0.xwni6.mongodb.net/
+IP=128.119.202.225
+USERNAME=vidhupv
+PASSWORD=hackUmass12
